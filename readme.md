@@ -35,7 +35,7 @@ conda install tqdm
 ```
 
 ### Questions?
-For any questions regarding this work, please email me at [aijia@wru.edu.com](mailto:aijia@wru.edu.com)) or corresponding author [Yong Lee](https://github.com/yongleex), email,[yongli.cv@gmail.com](yongli.cv@gmail.com).
+For any questions regarding this work, please email me at [aijia@wru.edu.com](mailto:aijia@wru.edu.com) or corresponding author [Yong Lee](https://github.com/yongleex), email,[yongli.cv@gmail.com](yongli.cv@gmail.com).
 
 #### Acknowledgements
 Parts of the code in this repository have been adapted from the following repos:
