@@ -1,5 +1,6 @@
 # FDI2CDI
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 This repository contains the code for our submitted paper __FDI2CDI: Rethinking asymmetric image deformation with post-correction for particle image velocimetry__. In this work,a post-correction method is proposed to correct the velocity results of asymmetric image deformation to second-order accuracy, aiming at reducing the random interpolation error. Tested on synthetic vector fields, synthetic particle images, and practical PIV recordings, the new PIV pipeline (asymmetric image deformation + FDI2CDI post-correction) demonstrates promising performance in terms of convergency, accuracy, robustness and practicality.
 
 ### Motivation
@@ -34,7 +35,7 @@ conda install tqdm
 ```
 
 ### Questions?
-For any questions regarding this work, please email me at [aijia@wru.edu.com](mailto:aijia@wru.edu.com)).
+For any questions regarding this work, please email me at [aijia@wru.edu.com](mailto:aijia@wru.edu.com)) or corresponding author [Yong Lee](https://github.com/yongleex), email,[yongli.cv@gmail.com](yongli.cv@gmail.com).
 
 #### Acknowledgements
 Parts of the code in this repository have been adapted from the following repos:
