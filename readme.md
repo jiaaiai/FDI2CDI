@@ -25,12 +25,12 @@ conda install tqdm
 
 ### BibTeX
 ```
-@article{Ai2024FDI2CDI,
+@article{Ai2025FDI2CDI,
   title={FDI2CDI: Rethinking asymmetric image deformation with post-correction for particle image velocimetry},
   author={Ai, Jia and Chen, Zuobing and Li, Junjie and Lee, Yong},
-  journal={Measurement Science and Technology (submitted)},
-  year={2024},
-  publisher={}
+  journal={Physics of Fluids},
+  year={2025},
+  publisher={AIP Publishing}
 }
 ```
 
